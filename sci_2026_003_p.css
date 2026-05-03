@@ -1,0 +1,130 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc06               { /* Common */
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc07               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc08               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc09               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #cc6666;
+	}
+.cc10               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	text-align      : center;
+	}
+div#e14             { /* PATRIMOINE AGEN, SCI MAR... */
+	background-color: #e0e0e0;
+	position        : absolute;
+	left            :  42.00pt;
+	top             :  18.00pt;
+	width           : 528.75pt;
+	height          :  54.75pt;
+	}
+div#e13             { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            :  45.75pt;
+	top             :  84.75pt;
+	width           : 577.50pt;
+	height          : 182.25pt;
+	}
+div#e12             { /* Les documents  */
+	position        : absolute;
+	left            :  33.75pt;
+	top             : 245.25pt;
+	width           : 165.75pt;
+	height          :  19.50pt;
+	}
+div#e11             { /* Détail des soldes des co... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 318.00pt;
+	width           : 198.00pt;
+	height          :  38.25pt;
+	}
+div#e10             { /* Relevés bancaires du com... */
+	position        : absolute;
+	left            :  39.00pt;
+	top             : 367.50pt;
+	width           : 195.00pt;
+	height          :  38.25pt;
+	}
+div#e9              { /* Déclaration 2072 pour SC... */
+	position        : absolute;
+	left            : 248.25pt;
+	top             : 297.75pt;
+	width           : 201.00pt;
+	height          :  17.25pt;
+	}
+div#e8              { /* Déclaration 2044 pour fo... */
+	position        : absolute;
+	left            : 249.00pt;
+	top             : 325.50pt;
+	width           : 258.75pt;
+	height          :  17.25pt;
+	}
+div#e7              { /* Documents divers */
+	position        : absolute;
+	left            : 248.25pt;
+	top             : 352.50pt;
+	width           : 258.75pt;
+	height          :  17.25pt;
+	}
+img#e6              { /* sci_2026003001.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 501.75pt;
+	top             : 330.00pt;
+	width           :  66.00pt;
+	height          :  21.00pt;
+	}
+div#e5              { /* Comptes-rendus des A.G  */
+	position        : absolute;
+	left            : 248.25pt;
+	top             : 268.50pt;
+	width           : 177.75pt;
+	height          :  17.25pt;
+	}
+div#e4              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	background-color: #ffff00;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 279.75pt;
+	width           :  62.25pt;
+	height          :  19.50pt;
+	}
+div#e3              { /* Répartition des revenus ... */
+	position        : absolute;
+	left            : 249.00pt;
+	top             : 384.00pt;
+	width           : 258.75pt;
+	height          :  32.25pt;
+	}
+div#e2              { /* Schéma comptable  */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 268.50pt;
+	width           : 126.75pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* Cagnotte  */
+	position        : absolute;
+	left            : 246.75pt;
+	top             : 416.25pt;
+	width           : 195.00pt;
+	height          :  20.25pt;
+	}
+
+
+
+/*--- EndOfFile ---*/

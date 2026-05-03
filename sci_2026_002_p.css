@@ -1,0 +1,91 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc04               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc05               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #800000;
+	}
+span#e9             { /* sci_2026002003.gif */
+	border          :   0.00pt none #000000;
+	background      : transparent url(sci_2026002003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 216.75pt;
+	top             : 268.50pt;
+	width           :   1.50pt;
+	height          :  99.75pt;
+	}
+div#e8              { /* courrier :\ \SCI MARA47 ... */
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 280.50pt;
+	width           : 240.00pt;
+	height          : 117.75pt;
+	}
+span#e7             { /* sci_2026002002.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,206.25pt,0.75pt,0.00pt);
+	background      : transparent url(sci_2026002002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 315.00pt;
+	width           : 206.25pt;
+	height          :   0.75pt;
+	}
+h1#e6               { /* Contact */
+	color           : #0000ff;
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   6.00pt;
+	width           : 209.25pt;
+	height          :  37.50pt;
+	}
+img#e5              { /* sci_2026002001.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 392.25pt;
+	top             : 408.75pt;
+	width           :  65.25pt;
+	height          :  21.00pt;
+	}
+div#e4              { /* Tél   */
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 248.25pt;
+	width           :  45.75pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Mèl: scimara47@hotmail.c... */
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 324.00pt;
+	width           : 190.50pt;
+	height          :  38.25pt;
+	}
+div#e2              { /* 04 67 86 92 81\ \+33 6 0... */
+	position        : absolute;
+	left            :  58.50pt;
+	top             : 251.25pt;
+	width           : 150.75pt;
+	height          :  58.50pt;
+	}
+div#e1              { /* Visites */
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 374.25pt;
+	width           :  46.50pt;
+	height          :  24.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

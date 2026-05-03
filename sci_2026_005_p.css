@@ -1,0 +1,50 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc16               { /* Common */
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc17               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc18               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #808080;
+	}
+div#e4              { /* PATRIMOINE AGEN, SCI MAR... */
+	background-color: #e0e0e0;
+	position        : absolute;
+	left            :  34.50pt;
+	top             :  15.00pt;
+	width           : 514.50pt;
+	height          :  58.50pt;
+	}
+img#e3              { /* sci_2026005001.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 557.25pt;
+	top             : 459.00pt;
+	width           :  65.25pt;
+	height          :  19.50pt;
+	}
+div#e2              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  87.00pt;
+	width           : 624.00pt;
+	height          : 352.50pt;
+	}
+div#e1              { /* Comptabilisation des tax... */
+	position        : absolute;
+	left            : 128.25pt;
+	top             : 462.00pt;
+	width           : 435.75pt;
+	height          :  25.50pt;
+	}
+
+
+
+/*--- EndOfFile ---*/

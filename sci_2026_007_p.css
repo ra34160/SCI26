@@ -1,0 +1,568 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc37               { /* Common */
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc38               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #cc6666;
+	text-align      : center;
+	}
+.cc39               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc40               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #cc0000;
+	}
+.cc41               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff9900;
+	}
+div#e76             { /* PATRIMOINE AGEN, SCI MAR... */
+	background-color: #e0e0e0;
+	position        : absolute;
+	left            :  34.50pt;
+	top             :  15.00pt;
+	width           : 520.50pt;
+	height          :  58.50pt;
+	}
+div#e75             { /* RELEVÉS BANCAIRES DU COM... */
+	position        : absolute;
+	left            :  26.25pt;
+	top             :  91.50pt;
+	width           : 407.25pt;
+	height          :  22.50pt;
+	}
+img#e74             { /* sci_2026007007.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 418.50pt;
+	width           :  65.25pt;
+	height          :  19.50pt;
+	}
+span#e73            { /* sci_2026007006.gif */
+	background      : transparent url(sci_2026007006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 137.25pt;
+	width           :  32.25pt;
+	height          :  18.00pt;
+	}
+div#e72             { /* 2025 */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 135.75pt;
+	width           :  33.00pt;
+	height          :  17.25pt;
+	}
+span#e71            { /* sci_2026007005.gif */
+	background      : transparent url(sci_2026007005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  21.00pt;
+	top             : 162.00pt;
+	width           :  36.00pt;
+	height          :  21.00pt;
+	}
+div#e70             { /* 2026 */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 164.25pt;
+	width           :  33.00pt;
+	height          :  17.25pt;
+	}
+span#e69            { /* sci_2026007004.gif */
+	background      : transparent url(sci_2026007004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 189.00pt;
+	width           :  36.00pt;
+	height          :  21.00pt;
+	}
+div#e68             { /* 2027 */
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 191.25pt;
+	width           :  33.00pt;
+	height          :  32.25pt;
+	}
+span#e67            { /* sci_2026007003.jpg */
+	background      : transparent url(sci_2026007003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  21.00pt;
+	top             : 217.50pt;
+	width           :  36.00pt;
+	height          :  21.00pt;
+	}
+div#e66             { /* 2028 */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 219.75pt;
+	width           :  33.00pt;
+	height          :  32.25pt;
+	}
+span#e65            { /* sci_2026007002.jpg */
+	background      : transparent url(sci_2026007002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  21.00pt;
+	top             : 245.25pt;
+	width           :  36.00pt;
+	height          :  21.00pt;
+	}
+div#e64             { /* 2029 */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 247.50pt;
+	width           :  33.00pt;
+	height          :  17.25pt;
+	}
+span#e63            { /* sci_2026007001.gif */
+	background      : transparent url(sci_2026007001.gif) no-repeat top left;
+	position        : absolute;
+	left            :  21.00pt;
+	top             : 274.50pt;
+	width           :  36.00pt;
+	height          :  21.00pt;
+	}
+div#e62             { /* 2030 */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 276.75pt;
+	width           :  33.00pt;
+	height          :  17.25pt;
+	}
+div#e61             { /* 12 */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 138.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e60             { /* 02 */
+	position        : absolute;
+	left            : 112.50pt;
+	top             : 165.00pt;
+	width           :  20.25pt;
+	height          :  17.25pt;
+	}
+div#e59             { /* 03 */
+	position        : absolute;
+	left            : 140.25pt;
+	top             : 165.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e58             { /* 04 */
+	position        : absolute;
+	left            : 170.25pt;
+	top             : 165.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e57             { /* 01 */
+	position        : absolute;
+	left            :  80.25pt;
+	top             : 165.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e56             { /* 05 */
+	position        : absolute;
+	left            : 194.25pt;
+	top             : 165.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e55             { /* 06 */
+	position        : absolute;
+	left            : 225.00pt;
+	top             : 165.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e54             { /* 07 */
+	position        : absolute;
+	left            : 256.50pt;
+	top             : 165.00pt;
+	width           :  22.50pt;
+	height          :  17.25pt;
+	}
+div#e53             { /* 08 */
+	position        : absolute;
+	left            : 281.25pt;
+	top             : 165.00pt;
+	width           :  18.00pt;
+	height          :  17.25pt;
+	}
+div#e52             { /* 10 */
+	position        : absolute;
+	left            : 338.25pt;
+	top             : 165.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e51             { /* 11 */
+	position        : absolute;
+	left            : 366.75pt;
+	top             : 165.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e50             { /* 12 */
+	position        : absolute;
+	left            : 395.25pt;
+	top             : 165.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e49             { /* 09 */
+	position        : absolute;
+	left            : 309.00pt;
+	top             : 165.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e48             { /* 02 */
+	position        : absolute;
+	left            : 111.00pt;
+	top             : 192.00pt;
+	width           :  20.25pt;
+	height          :  17.25pt;
+	}
+div#e47             { /* 03 */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 192.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e46             { /* 04 */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 192.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e45             { /* 01 */
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 192.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e44             { /* 05 */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 192.00pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e43             { /* 06 */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 192.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e42             { /* 07 */
+	position        : absolute;
+	left            : 255.00pt;
+	top             : 192.00pt;
+	width           :  19.50pt;
+	height          :  17.25pt;
+	}
+div#e41             { /* 08 */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 192.00pt;
+	width           :  18.00pt;
+	height          :  17.25pt;
+	}
+div#e40             { /* 10 */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 192.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e39             { /* 11 */
+	position        : absolute;
+	left            : 365.25pt;
+	top             : 192.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e38             { /* 12 */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 192.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e37             { /* 09 */
+	position        : absolute;
+	left            : 307.50pt;
+	top             : 192.00pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e36             { /* 02 */
+	position        : absolute;
+	left            : 111.00pt;
+	top             : 221.25pt;
+	width           :  20.25pt;
+	height          :  17.25pt;
+	}
+div#e35             { /* 03 */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 221.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e34             { /* 04 */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 221.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e33             { /* 01 */
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 221.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e32             { /* 05 */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 221.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e31             { /* 06 */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 221.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e30             { /* 07 */
+	position        : absolute;
+	left            : 255.00pt;
+	top             : 221.25pt;
+	width           :  21.75pt;
+	height          :  17.25pt;
+	}
+div#e29             { /* 08 */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 221.25pt;
+	width           :  18.00pt;
+	height          :  17.25pt;
+	}
+div#e28             { /* 10 */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 221.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e27             { /* 11 */
+	position        : absolute;
+	left            : 365.25pt;
+	top             : 221.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e26             { /* 12 */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 221.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e25             { /* 09 */
+	position        : absolute;
+	left            : 307.50pt;
+	top             : 221.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e24             { /* 02 */
+	position        : absolute;
+	left            : 111.00pt;
+	top             : 248.25pt;
+	width           :  20.25pt;
+	height          :  17.25pt;
+	}
+div#e23             { /* 03 */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 248.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e22             { /* 04 */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 248.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e21             { /* 01 */
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 248.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e20             { /* 05 */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 248.25pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e19             { /* 06 */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 248.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e18             { /* 07 */
+	position        : absolute;
+	left            : 255.00pt;
+	top             : 248.25pt;
+	width           :  20.25pt;
+	height          :  17.25pt;
+	}
+div#e17             { /* 08 */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 248.25pt;
+	width           :  18.00pt;
+	height          :  17.25pt;
+	}
+div#e16             { /* 10 */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 248.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* 11 */
+	position        : absolute;
+	left            : 365.25pt;
+	top             : 248.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e14             { /* 12 */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 248.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e13             { /* 09 */
+	position        : absolute;
+	left            : 307.50pt;
+	top             : 248.25pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e12             { /* 02 */
+	position        : absolute;
+	left            : 111.00pt;
+	top             : 273.75pt;
+	width           :  20.25pt;
+	height          :  17.25pt;
+	}
+div#e11             { /* 03 */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 273.75pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e10             { /* 04 */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 273.75pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e9              { /* 01 */
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 273.75pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e8              { /* 05 */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 273.75pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e7              { /* 06 */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 273.75pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e6              { /* 07 */
+	position        : absolute;
+	left            : 255.00pt;
+	top             : 273.75pt;
+	width           :  18.75pt;
+	height          :  17.25pt;
+	}
+div#e5              { /* 08 */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 273.75pt;
+	width           :  18.00pt;
+	height          :  17.25pt;
+	}
+div#e4              { /* 10 */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 273.75pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e3              { /* 11 */
+	position        : absolute;
+	left            : 365.25pt;
+	top             : 273.75pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e2              { /* 12 */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 273.75pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* 09 */
+	position        : absolute;
+	left            : 307.50pt;
+	top             : 273.75pt;
+	width           :  24.00pt;
+	height          :  17.25pt;
+	}
+
+
+
+/*--- EndOfFile ---*/

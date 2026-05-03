@@ -1,0 +1,142 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : bold 20pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc02               { /* Common */
+	font            : italic bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	text-align      : center;
+	}
+.cc03               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e13             { /* sci_2026001006.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 466.50pt;
+	width           : 168.00pt;
+	height          :  47.25pt;
+	}
+h3#e12              { /* ACCUEIL \ */
+	background      : transparent url(sci_2026001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :  21.75pt;
+	width           : 192.00pt;
+	height          :  19.50pt;
+	}
+img#e11             { /* sci_2026001004.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            :  62.25pt;
+	top             : 271.50pt;
+	width           : 175.50pt;
+	height          :  49.50pt;
+	}
+img#e10             { /* sci_2026001003.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 366.75pt;
+	width           : 171.75pt;
+	height          :  53.25pt;
+	}
+div#e9              { /* Menu */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff00;
+	text-align      : center;
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 291.00pt;
+	width           : 169.50pt;
+	height          :  17.25pt;
+	}
+a#a9                { /* Menu */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+div#e8              { /* Contact */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff00;
+	text-align      : center;
+	position        : absolute;
+	left            :  66.00pt;
+	top             : 385.50pt;
+	width           : 171.00pt;
+	height          :  18.00pt;
+	}
+a#a8                { /* Contact */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+h3#e7               { /* S C I&nbsp; MARA 47 - 20... */
+	position        : absolute;
+	left            : 195.75pt;
+	top             :   9.75pt;
+	width           : 425.25pt;
+	height          :  45.75pt;
+	}
+span#e6             { /* sci_2026001002.jpg */
+	background      : transparent url(sci_2026001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 318.75pt;
+	top             :  57.75pt;
+	width           : 376.50pt;
+	height          : 204.75pt;
+	}
+span#e5             { /* sci_2026001001.jpg */
+	background      : transparent url(sci_2026001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 315.75pt;
+	top             : 316.50pt;
+	width           : 381.75pt;
+	height          : 161.25pt;
+	}
+div#e4              { /* <DIV>Parking - 1456 Ave ... */
+	position        : absolute;
+	left            : 321.00pt;
+	top             : 276.00pt;
+	width           : 375.00pt;
+	height          :  35.25pt;
+	}
+div#e3              { /* <DIV>Salon - 430&nbsp;ru... */
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 499.50pt;
+	width           : 375.00pt;
+	height          :  35.25pt;
+	}
+div#e2              { /* <FONT color="#0000ff" si... */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 152.25pt;
+	width           : 279.75pt;
+	height          :  33.75pt;
+	}
+div#e1              { /* Aide */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff00;
+	text-align      : center;
+	position        : absolute;
+	left            :  65.25pt;
+	top             : 484.50pt;
+	width           : 169.50pt;
+	height          :  21.00pt;
+	}
+a#a1                { /* Aide */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/
