@@ -17,10 +17,6 @@
 	font            : 10pt 'Arial', Helvetica, sans-serif;
 	color           : #ff6600;
 	}
-.cc15               { /* Common */
-	border          :   0.00pt none #000000;
-	clip            : rect(0.00pt,36.00pt,16.50pt,0.00pt);
-	}
 div#e67             { /* PATRIMOINE AGEN, SCI MAR... */
 	background-color: #e0e0e0;
 	position        : absolute;
@@ -73,7 +69,8 @@ span#e61            { /* sci_2026004030.gif */
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-img#e60             { /* sci_2026004029.gif */
+span#e60            { /* sci_2026004029.gif */
+	background      : transparent url(sci_2026004029.gif) no-repeat top left;
 	position        : absolute;
 	left            : 226.50pt;
 	top             : 264.75pt;
@@ -153,7 +150,8 @@ div#e50             { /* 2026 */
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-img#e49             { /* sci_2026004024.gif */
+span#e49            { /* sci_2026004024.gif */
+	background      : transparent url(sci_2026004024.gif) no-repeat top left;
 	position        : absolute;
 	left            : 268.50pt;
 	top             : 264.00pt;
@@ -167,8 +165,7 @@ div#e48             { /* 2026 */
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-span#e47            { /* sci_2026004023.gif */
-	background      : transparent url(sci_2026004023.gif) no-repeat top left;
+img#e47             { /* sci_2026004023.gif */
 	position        : absolute;
 	left            : 312.00pt;
 	top             :  94.50pt;
@@ -211,7 +208,8 @@ div#e42             { /* 2027 */
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-img#e41             { /* sci_2026004020.gif */
+span#e41            { /* sci_2026004020.gif */
+	background      : transparent url(sci_2026004020.gif) no-repeat top left;
 	position        : absolute;
 	left            : 312.00pt;
 	top             : 264.00pt;
@@ -270,7 +268,8 @@ div#e34             { /* 2028 */
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-img#e33             { /* sci_2026004016.gif */
+span#e33            { /* sci_2026004016.gif */
+	background      : transparent url(sci_2026004016.gif) no-repeat top left;
 	position        : absolute;
 	left            : 228.00pt;
 	top             : 290.25pt;
@@ -287,232 +286,233 @@ div#e32             { /* 2028 */
 span#e31            { /* sci_2026004015.jpg */
 	background      : transparent url(sci_2026004015.jpg) no-repeat top left;
 	position        : absolute;
-	left            : 270.75pt;
-	top             : 120.00pt;
-	width           :  36.00pt;
-	height          :  16.50pt;
-	}
-div#e30             { /* 2029 */
-	position        : absolute;
-	left            : 274.50pt;
-	top             : 123.75pt;
-	width           :  33.00pt;
-	height          :  24.75pt;
-	}
-span#e29            { /* sci_2026004014.jpg */
-	background      : transparent url(sci_2026004014.jpg) no-repeat top left;
-	position        : absolute;
 	left            : 273.00pt;
 	top             : 173.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e28             { /* 2029 */
+div#e30             { /* 2029 */
 	position        : absolute;
 	left            : 276.75pt;
 	top             : 177.75pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-span#e27            { /* sci_2026004013.jpg */
-	background      : transparent url(sci_2026004013.jpg) no-repeat top left;
+span#e29            { /* sci_2026004014.jpg */
+	background      : transparent url(sci_2026004014.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 273.00pt;
 	top             : 222.75pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e26             { /* 2029 */
+div#e28             { /* 2029 */
 	position        : absolute;
 	left            : 276.75pt;
 	top             : 227.25pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-img#e25             { /* sci_2026004012.gif */
+span#e27            { /* sci_2026004013.gif */
+	background      : transparent url(sci_2026004013.gif) no-repeat top left;
 	position        : absolute;
 	left            : 267.75pt;
 	top             : 290.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e24             { /* 2029 */
+div#e26             { /* 2029 */
 	position        : absolute;
 	left            : 271.50pt;
 	top             : 294.75pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-div#e23             { /* Répartition des revenus */
+div#e25             { /* Répartition des revenus */
 	position        : absolute;
 	left            :  21.00pt;
 	top             : 343.50pt;
 	width           : 177.00pt;
 	height          :  56.25pt;
 	}
-span#e22            { /* sci_2026004011.gif */
-	background      : transparent url(sci_2026004011.gif) no-repeat top left;
+span#e24            { /* sci_2026004012.gif */
+	background      : transparent url(sci_2026004012.gif) no-repeat top left;
 	position        : absolute;
 	left            : 225.75pt;
 	top             : 327.00pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e21             { /* 2025 */
+div#e23             { /* 2025 */
 	position        : absolute;
 	left            : 230.25pt;
 	top             : 330.75pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-span#e20            { /* sci_2026004010.gif */
-	background      : transparent url(sci_2026004010.gif) no-repeat top left;
+span#e22            { /* sci_2026004011.gif */
+	background      : transparent url(sci_2026004011.gif) no-repeat top left;
 	position        : absolute;
 	left            : 267.75pt;
 	top             : 326.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e19             { /* 2026 */
+div#e21             { /* 2026 */
 	position        : absolute;
 	left            : 272.25pt;
 	top             : 330.00pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-span#e18            { /* sci_2026004009.gif */
-	background      : transparent url(sci_2026004009.gif) no-repeat top left;
+span#e20            { /* sci_2026004010.gif */
+	background      : transparent url(sci_2026004010.gif) no-repeat top left;
 	position        : absolute;
 	left            : 311.25pt;
 	top             : 326.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e17             { /* 2027 */
+div#e19             { /* 2027 */
 	position        : absolute;
 	left            : 315.75pt;
 	top             : 330.00pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-span#e16            { /* sci_2026004008.jpg */
-	background      : transparent url(sci_2026004008.jpg) no-repeat top left;
+span#e18            { /* sci_2026004009.jpg */
+	background      : transparent url(sci_2026004009.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 227.25pt;
 	top             : 352.50pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e15             { /* 2028 */
+div#e17             { /* 2028 */
 	position        : absolute;
 	left            : 231.75pt;
 	top             : 356.25pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-span#e14            { /* sci_2026004007.gif */
-	background      : transparent url(sci_2026004007.gif) no-repeat top left;
+span#e16            { /* sci_2026004008.gif */
+	background      : transparent url(sci_2026004008.gif) no-repeat top left;
 	position        : absolute;
 	left            : 267.00pt;
 	top             : 352.50pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e13             { /* 2029 */
+div#e15             { /* 2029 */
 	position        : absolute;
 	left            : 270.75pt;
 	top             : 357.00pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-img#e12             { /* sci_2026004006.gif */
+img#e14             { /* sci_2026004007.gif */
 	position        : absolute;
 	left            : 229.50pt;
 	top             :  95.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e11             { /* 2025 */
+div#e13             { /* 2025 */
 	position        : absolute;
 	left            : 234.00pt;
 	top             :  99.00pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-span#e10            { /* sci_2026004005.jpg */
-	background      : transparent url(sci_2026004005.jpg) no-repeat top left;
+span#e12            { /* sci_2026004006.jpg */
+	background      : transparent url(sci_2026004006.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 314.25pt;
 	top             : 223.50pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e9              { /* 2030 */
+div#e11             { /* 2030 */
 	position        : absolute;
 	left            : 318.00pt;
 	top             : 228.00pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-span#e8             { /* sci_2026004004.jpg */
-	background      : transparent url(sci_2026004004.jpg) no-repeat top left;
+span#e10            { /* sci_2026004005.jpg */
+	background      : transparent url(sci_2026004005.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 312.00pt;
 	top             : 173.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e7              { /* 2030 */
+div#e9              { /* 2030 */
 	position        : absolute;
 	left            : 315.75pt;
 	top             : 177.75pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-span#e6             { /* sci_2026004003.gif */
-	background      : transparent url(sci_2026004003.gif) no-repeat top left;
+span#e8             { /* sci_2026004004.gif */
+	background      : transparent url(sci_2026004004.gif) no-repeat top left;
 	position        : absolute;
 	left            : 310.50pt;
 	top             : 290.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e5              { /* 2030 */
+div#e7              { /* 2030 */
 	position        : absolute;
 	left            : 314.25pt;
 	top             : 294.75pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-span#e4             { /* sci_2026004002.gif */
-	background      : transparent url(sci_2026004002.gif) no-repeat top left;
+span#e6             { /* sci_2026004003.gif */
+	background      : transparent url(sci_2026004003.gif) no-repeat top left;
 	position        : absolute;
 	left            : 309.75pt;
 	top             : 353.25pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e3              { /* 2030 */
+div#e5              { /* 2030 */
 	position        : absolute;
 	left            : 313.50pt;
 	top             : 357.75pt;
 	width           :  33.00pt;
 	height          :  17.25pt;
 	}
-span#e2             { /* sci_2026004001.jpg */
-	background      : transparent url(sci_2026004001.jpg) no-repeat top left;
+span#e4             { /* sci_2026004002.jpg */
+	background      : transparent url(sci_2026004002.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 310.50pt;
 	top             : 120.00pt;
 	width           :  36.00pt;
 	height          :  21.00pt;
 	}
-div#e1              { /* 2030 */
+div#e3              { /* 2030 */
 	position        : absolute;
 	left            : 314.25pt;
 	top             : 124.50pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
+	}
+span#e2             { /* sci_2026004001.jpg */
+	background      : transparent url(sci_2026004001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 120.75pt;
+	width           :  36.00pt;
+	height          :  21.00pt;
+	}
+div#e1              { /* 2029 */
+	position        : absolute;
+	left            : 274.50pt;
+	top             : 124.50pt;
+	width           :  33.00pt;
+	height          :  17.25pt;
 	}
 
 

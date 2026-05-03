@@ -1,25 +1,25 @@
 /*--- Avanquest WebEasy Page Style ---*/
 
 
-.cc52               { /* Common */
+.cc54               { /* Common */
 	font            : 18pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	text-align      : center;
 	}
-.cc53               { /* Common */
+.cc55               { /* Common */
 	font            : 14pt 'Arial', Helvetica, sans-serif;
 	color           : #cc6666;
 	text-align      : center;
 	}
-.cc54               { /* Common */
+.cc56               { /* Common */
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	}
-.cc55               { /* Common */
+.cc57               { /* Common */
 	font            : bold 10pt 'Arial', Helvetica, sans-serif;
 	color           : #cc0000;
 	}
-div#e20             { /* PATRIMOINE AGEN, SCI MAR... */
+div#e22             { /* PATRIMOINE AGEN, SCI MAR... */
 	background-color: #e0e0e0;
 	position        : absolute;
 	left            : 160.50pt;
@@ -27,14 +27,14 @@ div#e20             { /* PATRIMOINE AGEN, SCI MAR... */
 	width           : 384.75pt;
 	height          :  65.25pt;
 	}
-div#e19             { /* DOCUMENTS DIVERS */
+div#e21             { /* DOCUMENTS DIVERS */
 	position        : absolute;
 	left            :  26.25pt;
 	top             :  92.25pt;
 	width           : 407.25pt;
 	height          :  21.75pt;
 	}
-img#e18             { /* sci_2026010001.jpg */
+img#e20             { /* sci_2026010001.jpg */
 	background-color: transparent;
 	position        : absolute;
 	left            : 562.50pt;
@@ -42,124 +42,138 @@ img#e18             { /* sci_2026010001.jpg */
 	width           :  65.25pt;
 	height          :  19.50pt;
 	}
-div#e17             { /* 2026 09 Taxe Foncière po... */
+div#e19             { /* 2026 09 Taxe Foncière po... */
 	position        : absolute;
 	left            :  52.50pt;
 	top             : 205.50pt;
 	width           : 531.00pt;
 	height          :  20.25pt;
 	}
-div#e16             { /* 2026 12 Facture EDF pour... */
+div#e18             { /* 2026 12 Facture EDF pour... */
 	position        : absolute;
 	left            :  52.50pt;
 	top             : 244.50pt;
 	width           : 357.75pt;
 	height          :  20.25pt;
 	}
-div#e15             { /* 2025 */
+div#e17             { /* 2025 */
 	position        : absolute;
 	left            :  46.50pt;
 	top             : 118.50pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-div#e14             { /* 2026 */
+div#e16             { /* 2026 */
 	position        : absolute;
 	left            :  87.75pt;
 	top             : 118.50pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-div#e13             { /* 2027 */
+div#e15             { /* 2027 */
 	position        : absolute;
 	left            : 131.25pt;
 	top             : 119.25pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-div#e12             { /* 2028 */
+div#e14             { /* 2028 */
 	position        : absolute;
 	left            : 169.50pt;
 	top             : 118.50pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-div#e11             { /* 2029 */
+div#e13             { /* 2029 */
 	position        : absolute;
 	left            : 212.25pt;
 	top             : 118.50pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-div#e10             { /* 2030 */
+div#e12             { /* 2030 */
 	position        : absolute;
 	left            : 253.50pt;
 	top             : 118.50pt;
 	width           :  33.00pt;
 	height          :  32.25pt;
 	}
-div#e9              { /* 2026 09 Taxe Foncière po... */
+div#e11             { /* 2026 09 Taxe Foncière po... */
 	position        : absolute;
 	left            :  52.50pt;
 	top             : 224.25pt;
 	width           : 360.00pt;
 	height          :  20.25pt;
 	}
-div#e8              { /* 2026  12 Excel regroupan... */
+div#e10             { /* 2026  12 Excel regroupan... */
 	position        : absolute;
 	left            :  52.50pt;
 	top             : 264.75pt;
 	width           : 611.25pt;
 	height          :  20.25pt;
 	}
-div#e7              { /* 2026  Quittances loyer s... */
+div#e9              { /* 2026  Quittances loyer s... */
 	position        : absolute;
-	left            :  52.50pt;
-	top             : 420.00pt;
+	left            :  51.75pt;
+	top             : 411.75pt;
 	width           : 196.50pt;
 	height          :  20.25pt;
 	}
-div#e6              { /* 2026  Quittances loyer h... */
+div#e8              { /* 2026  Quittances loyer h... */
 	position        : absolute;
-	left            :  52.50pt;
-	top             : 439.50pt;
+	left            :  51.75pt;
+	top             : 444.75pt;
 	width           : 206.25pt;
 	height          :  20.25pt;
 	}
-div#e5              { /* Le calcul des charges à ... */
+div#e7              { /* Le calcul des charges à ... */
 	position        : absolute;
 	left            : 117.75pt;
 	top             : 292.50pt;
 	width           : 531.00pt;
 	height          :  20.25pt;
 	}
-div#e4              { /* Le compte d'exploitation... */
+div#e6              { /* Le compte d'exploitation... */
 	position        : absolute;
 	left            : 117.75pt;
 	top             : 305.25pt;
 	width           : 205.50pt;
 	height          :  20.25pt;
 	}
-div#e3              { /* Le Bilan        */
+div#e5              { /* Le Bilan        */
 	position        : absolute;
 	left            : 117.75pt;
 	top             : 319.50pt;
 	width           : 205.50pt;
 	height          :  18.00pt;
 	}
-div#e2              { /* La trésorerie prévisionn... */
+div#e4              { /* La trésorerie prévisionn... */
 	position        : absolute;
 	left            : 117.75pt;
 	top             : 335.25pt;
 	width           : 205.50pt;
 	height          :  20.25pt;
 	}
-div#e1              { /* 2026  Excel de réconcili... */
+div#e3              { /* 2026  Excel de réconcili... */
 	position        : absolute;
 	left            :  52.50pt;
 	top             : 377.25pt;
 	width           : 346.50pt;
 	height          :  20.25pt;
+	}
+div#e2              { /* &nbsp;Assurance PNO */
+	position        : absolute;
+	left            : 291.00pt;
+	top             : 409.50pt;
+	width           : 124.50pt;
+	height          :  22.50pt;
+	}
+div#e1              { /* &nbsp;Assurance PNO */
+	position        : absolute;
+	left            : 291.00pt;
+	top             : 442.50pt;
+	width           : 123.75pt;
+	height          :  22.50pt;
 	}
 
 

@@ -1,20 +1,24 @@
 /*--- Avanquest WebEasy Page Style ---*/
 
 
-.cc16               { /* Common */
+.cc15               { /* Common */
 	font            : 18pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	text-align      : center;
 	}
-.cc17               { /* Common */
+.cc16               { /* Common */
 	font            : 10pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	}
-.cc18               { /* Common */
+.cc17               { /* Common */
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	color           : #808080;
 	}
-div#e4              { /* PATRIMOINE AGEN, SCI MAR... */
+.cc18               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ff6600;
+	}
+div#e5              { /* PATRIMOINE AGEN, SCI MAR... */
 	background-color: #e0e0e0;
 	position        : absolute;
 	left            :  34.50pt;
@@ -22,7 +26,7 @@ div#e4              { /* PATRIMOINE AGEN, SCI MAR... */
 	width           : 514.50pt;
 	height          :  58.50pt;
 	}
-img#e3              { /* sci_2026005001.jpg */
+img#e4              { /* sci_2026005001.jpg */
 	background-color: transparent;
 	position        : absolute;
 	left            : 557.25pt;
@@ -30,19 +34,26 @@ img#e3              { /* sci_2026005001.jpg */
 	width           :  65.25pt;
 	height          :  19.50pt;
 	}
-div#e2              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+div#e3              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
 	position        : absolute;
-	left            :  43.50pt;
-	top             :  87.00pt;
+	left            :  36.75pt;
+	top             :  80.25pt;
 	width           : 624.00pt;
-	height          : 352.50pt;
+	height          : 332.25pt;
 	}
-div#e1              { /* Comptabilisation des tax... */
+div#e2              { /* Comptabilisation des tax... */
 	position        : absolute;
 	left            : 128.25pt;
 	top             : 462.00pt;
 	width           : 435.75pt;
 	height          :  25.50pt;
+	}
+div#e1              { /* N/A Régime fiscal sans T... */
+	position        : absolute;
+	left            : 417.00pt;
+	top             : 319.50pt;
+	width           : 326.25pt;
+	height          :  17.25pt;
 	}
 
 

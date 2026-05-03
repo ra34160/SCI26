@@ -75,7 +75,14 @@
 .cc36               { /* Common */
 	border          :   0.00pt none #ff0000;
 	}
-div#e33             { /* PATRIMOINE AGEN, SCI MAR... */
+.cc37               { /* Common */
+	border          :   0.00pt none #993333;
+	}
+.cc38               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #bfbfbf;
+	}
+div#e35             { /* PATRIMOINE AGEN, SCI MAR... */
 	background-color: #e0e0e0;
 	position        : absolute;
 	left            :  32.25pt;
@@ -83,7 +90,7 @@ div#e33             { /* PATRIMOINE AGEN, SCI MAR... */
 	width           : 523.50pt;
 	height          :  54.75pt;
 	}
-div#e32             { /* TVA  */
+div#e34             { /* TVA  */
 	background-color: #ffffff;
 	position        : absolute;
 	left            :  16.50pt;
@@ -91,7 +98,7 @@ div#e32             { /* TVA  */
 	width           :  48.75pt;
 	height          :  19.50pt;
 	}
-img#e31             { /* sci_2026006012.jpg */
+img#e33             { /* sci_2026006013.jpg */
 	background-color: transparent;
 	position        : absolute;
 	left            :  27.00pt;
@@ -99,225 +106,240 @@ img#e31             { /* sci_2026006012.jpg */
 	width           :  65.25pt;
 	height          :  19.50pt;
 	}
-div#e30             { /* Comptabilisation des fra... */
+div#e32             { /* Comptabilisation des fra... */
 	position        : absolute;
 	left            :  74.25pt;
 	top             :  61.50pt;
 	width           : 403.50pt;
 	height          :  19.50pt;
 	}
-span#e29            { /* sci_2026006011.gif */
-	background      : transparent url(sci_2026006011.gif) no-repeat top left;
+span#e31            { /* sci_2026006012.gif */
+	background      : transparent url(sci_2026006012.gif) no-repeat top left;
 	position        : absolute;
 	left            : 194.25pt;
 	top             : 288.75pt;
 	width           :  66.75pt;
 	height          :  74.25pt;
 	}
-div#e28             { /* Taxes F, H et frais dive... */
+div#e30             { /* Taxes F, H et frais dive... */
 	position        : absolute;
 	left            :  12.00pt;
 	top             : 240.00pt;
 	width           : 192.75pt;
 	height          :  25.50pt;
 	}
-div#e27             { /* Ecritures 1 et 3 automat... */
+div#e29             { /* Ecritures 1 et 3 automat... */
 	position        : absolute;
 	left            :  65.25pt;
 	top             :  87.75pt;
 	width           : 504.75pt;
 	height          :  44.25pt;
 	}
-span#e26            { /* sci_2026006010.gif */
-	background      : transparent url(sci_2026006010.gif) no-repeat top left;
+span#e28            { /* sci_2026006011.gif */
+	background      : transparent url(sci_2026006011.gif) no-repeat top left;
 	position        : absolute;
 	left            : 188.25pt;
 	top             : 195.75pt;
 	width           :  63.75pt;
 	height          :   0.75pt;
 	}
-span#e25            { /* sci_2026006009.gif */
-	background      : transparent url(sci_2026006009.gif) no-repeat top left;
+span#e27            { /* sci_2026006010.gif */
+	background      : transparent url(sci_2026006010.gif) no-repeat top left;
 	position        : absolute;
 	left            :  52.50pt;
 	top             : 156.00pt;
 	width           :  66.75pt;
 	height          :  41.25pt;
 	}
-span#e24            { /* sci_2026006008.gif */
-	background      : transparent url(sci_2026006008.gif) no-repeat top left;
+span#e26            { /* sci_2026006009.gif */
+	background      : transparent url(sci_2026006009.gif) no-repeat top left;
 	position        : absolute;
 	left            : 313.50pt;
 	top             : 159.00pt;
 	width           :  66.75pt;
 	height          :  42.75pt;
 	}
-div#e23             { /* SCI  */
+div#e25             { /* SCI  */
 	position        : absolute;
 	left            :  65.25pt;
 	top             : 139.50pt;
 	width           :  41.25pt;
 	height          :  18.75pt;
 	}
-div#e22             { /* CELR Mara47  */
+div#e24             { /* CELR Mara47  */
 	position        : absolute;
 	left            : 314.25pt;
 	top             : 137.25pt;
 	width           :  65.25pt;
 	height          :  16.50pt;
 	}
-div#e21             { /* TVA  */
+div#e23             { /* TVA  */
 	position        : absolute;
 	left            : 206.25pt;
 	top             : 180.00pt;
 	width           :  27.75pt;
 	height          :  15.00pt;
 	}
-div#e20             { /* Véolia TTC  */
+div#e22             { /* Véolia TTC  */
 	position        : absolute;
 	left            :  27.75pt;
 	top             : 160.50pt;
 	width           :  54.00pt;
 	height          :  12.75pt;
 	}
-div#e19             { /* (1)  6684,40 */
+div#e21             { /* (1)  6684,40 */
 	position        : absolute;
 	left            :  15.00pt;
 	top             : 174.00pt;
 	width           :  69.75pt;
 	height          :  18.00pt;
 	}
-div#e18             { /* (2)  6200.55 */
+div#e20             { /* (2)  6200.55 */
 	position        : absolute;
 	left            : 276.75pt;
 	top             : 171.00pt;
 	width           :  72.75pt;
 	height          :  16.50pt;
 	}
-div#e17             { /* (4)  1114,07 */
+div#e19             { /* (4)  1114,07 */
 	position        : absolute;
 	left            : 352.50pt;
 	top             : 169.50pt;
 	width           :  70.50pt;
 	height          :  16.50pt;
 	}
-div#e16             { /* Paiement en ligne, à par... */
+div#e18             { /* Paiement en ligne, à par... */
 	position        : absolute;
 	left            : 399.00pt;
 	top             : 189.00pt;
 	width           :  51.75pt;
 	height          :  42.75pt;
 	}
-div#e15             { /* &nbsp;1114,07 */
+div#e17             { /* &nbsp;1114,07 */
 	position        : absolute;
 	left            : 175.50pt;
 	top             : 205.50pt;
 	width           :  46.50pt;
 	height          :  18.00pt;
 	}
-div#e14             { /* Frais divers  */
+div#e16             { /* Frais divers  */
 	position        : absolute;
 	left            : 193.50pt;
 	top             : 269.25pt;
 	width           :  72.75pt;
 	height          :  15.75pt;
 	}
-div#e13             { /* Au paiement (télépaiemen... */
+div#e15             { /* Au paiement (télépaiemen... */
 	position        : absolute;
 	left            :   9.75pt;
 	top             : 292.50pt;
 	width           : 151.50pt;
 	height          : 117.75pt;
 	}
-span#e12            { /* sci_2026006007.gif */
-	background      : transparent url(sci_2026006007.gif) no-repeat top left;
+span#e14            { /* sci_2026006008.gif */
+	background      : transparent url(sci_2026006008.gif) no-repeat top left;
 	position        : absolute;
 	left            : 304.50pt;
 	top             : 288.75pt;
 	width           :  66.75pt;
 	height          :  80.25pt;
 	}
-div#e11             { /* CELR Mara47 */
+div#e13             { /* CELR Mara47 */
 	position        : absolute;
 	left            : 298.50pt;
 	top             : 268.50pt;
 	width           :  78.00pt;
 	height          :  14.25pt;
 	}
-div#e10             { /* X */
+div#e12             { /* X */
 	position        : absolute;
 	left            : 197.25pt;
 	top             : 299.25pt;
 	width           :  21.75pt;
 	height          :  16.50pt;
 	}
-div#e9              { /* Taxe foncière\ \Taxe d'h... */
+div#e11             { /* Taxe foncière\ \Taxe d'h... */
 	position        : absolute;
 	left            : 343.50pt;
 	top             : 296.25pt;
 	width           :  90.75pt;
 	height          :  24.00pt;
 	}
-div#e8              { /* 5570,38 loyer\ \1114,07 ... */
+div#e10             { /* 5570,38 loyer\ \1114,07 ... */
 	position        : absolute;
 	left            :  12.00pt;
 	top             : 190.50pt;
 	width           :  90.00pt;
 	height          :  33.75pt;
 	}
-div#e7              { /* Edf\ \Espaces verts\ \As... */
+div#e9              { /* Edf\ \Espaces verts\ \As... */
 	position        : absolute;
 	left            : 344.25pt;
 	top             : 319.50pt;
 	width           :  73.50pt;
 	height          :  47.25pt;
 	}
-span#e6             { /* sci_2026006006.gif */
-	background      : transparent url(sci_2026006006.gif) no-repeat top left;
+span#e8             { /* sci_2026006007.gif */
+	background      : transparent url(sci_2026006007.gif) no-repeat top left;
 	position        : absolute;
 	left            : 204.75pt;
 	top             : 315.75pt;
 	width           :   0.75pt;
 	height          :   0.75pt;
 	}
-span#e5             { /* sci_2026006005.jpg */
-	background      : transparent url(sci_2026006005.jpg) no-repeat top left;
+span#e7             { /* sci_2026006006.jpg */
+	background      : transparent url(sci_2026006006.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 201.75pt;
 	top             : 314.25pt;
 	width           :   0.75pt;
 	height          :  77.25pt;
 	}
-span#e4             { /* sci_2026006004.gif */
-	background      : transparent url(sci_2026006004.gif) no-repeat top left;
+span#e6             { /* sci_2026006005.gif */
+	background      : transparent url(sci_2026006005.gif) no-repeat top left;
 	position        : absolute;
 	left            : 200.25pt;
 	top             : 393.00pt;
 	width           : 166.50pt;
 	height          :   0.75pt;
 	}
-span#e3             { /* sci_2026006003.jpg */
-	background      : transparent url(sci_2026006003.jpg) no-repeat top left;
+span#e5             { /* sci_2026006004.jpg */
+	background      : transparent url(sci_2026006004.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 366.00pt;
 	top             : 364.50pt;
 	width           :   0.75pt;
 	height          :  29.25pt;
 	}
-span#e2             { /* sci_2026006002.gif */
-	background      : transparent url(sci_2026006002.gif) no-repeat top left;
+span#e4             { /* sci_2026006003.gif */
+	background      : transparent url(sci_2026006003.gif) no-repeat top left;
 	position        : absolute;
 	left            : 208.50pt;
 	top             : 251.25pt;
 	width           :   0.75pt;
 	height          :   0.75pt;
 	}
-img#e1              { /* sci_2026006001.jpg */
+img#e3              { /* sci_2026006002.jpg */
 	position        : absolute;
 	left            : 202.50pt;
 	top             : 189.00pt;
 	width           : 180.00pt;
 	height          :  58.50pt;
+	}
+span#e2             { /* sci_2026006001.gif */
+	background      : transparent url(sci_2026006001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 267.75pt;
+	top             : 448.50pt;
+	width           : 405.75pt;
+	height          :  62.25pt;
+	}
+div#e1              { /* <FONT color="#ff0000">NO... */
+	position        : absolute;
+	left            : 367.50pt;
+	top             : 471.00pt;
+	width           : 216.75pt;
+	height          :  30.75pt;
 	}
 
 

@@ -23,7 +23,7 @@
 	color           : #ff0000;
 	text-align      : center;
 	}
-div#e14             { /* PATRIMOINE AGEN, SCI MAR... */
+div#e15             { /* PATRIMOINE AGEN, SCI MAR... */
 	background-color: #e0e0e0;
 	position        : absolute;
 	left            :  42.00pt;
@@ -31,26 +31,33 @@ div#e14             { /* PATRIMOINE AGEN, SCI MAR... */
 	width           : 528.75pt;
 	height          :  54.75pt;
 	}
-div#e13             { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+div#e14             { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
 	position        : absolute;
 	left            :  45.75pt;
 	top             :  84.75pt;
 	width           : 577.50pt;
 	height          : 182.25pt;
 	}
-div#e12             { /* Les documents  */
+div#e13             { /* Les documents  */
 	position        : absolute;
 	left            :  33.75pt;
 	top             : 245.25pt;
 	width           : 165.75pt;
 	height          :  19.50pt;
 	}
-div#e11             { /* Détail des soldes des co... */
+div#e12             { /* Détail des soldes des co... */
 	position        : absolute;
 	left            :  40.50pt;
 	top             : 318.00pt;
 	width           : 198.00pt;
-	height          :  38.25pt;
+	height          :  39.00pt;
+	}
+div#e11             { /* Historique TVA déjà reve... */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 292.50pt;
+	width           : 195.00pt;
+	height          :  18.00pt;
 	}
 div#e10             { /* Relevés bancaires du com... */
 	position        : absolute;

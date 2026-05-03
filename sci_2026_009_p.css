@@ -1,21 +1,21 @@
 /*--- Avanquest WebEasy Page Style ---*/
 
 
-.cc48               { /* Common */
+.cc50               { /* Common */
 	font            : 18pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	text-align      : center;
 	}
-.cc49               { /* Common */
+.cc51               { /* Common */
 	font            : 14pt 'Arial', Helvetica, sans-serif;
 	color           : #cc6666;
 	text-align      : center;
 	}
-.cc50               { /* Common */
+.cc52               { /* Common */
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	}
-.cc51               { /* Common */
+.cc53               { /* Common */
 	font            : bold 10pt 'Arial', Helvetica, sans-serif;
 	color           : #cc0000;
 	}
